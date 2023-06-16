@@ -16,6 +16,6 @@ afterEach(() => {
 
 describe("Calculator Tests", () => {
     test("Renders the page", () => {
-        expect(page.window.document.title).toEqual("Simple Calculator")
+        expect(page.window.document.title).toEqual("Awesome Calculator")
     });
 });
